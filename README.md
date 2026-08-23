@@ -1,4 +1,12 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="EVERYDAY-ARADHY's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 ## Hi there 👋
+
+- 📫 How to reach me: **krishnaxaradhy@gmail.com**
 
 <!--
 **EVERYDAY-ARADHY/EVERYDAY-ARADHY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +18,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
